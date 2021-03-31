@@ -1,0 +1,15 @@
+.table{
+    border: solid 1px black;
+    padding: 5px;
+    margin: 10px;
+}
+.container{
+    display: flex;
+}
+.table-list{
+    width: 70%;
+}
+.filter-option{
+    text-align: center;
+    
+}
